@@ -1,0 +1,6 @@
+.row {
+    justify-content: space-around;
+    align-items: stretch;
+    flex-flow: row-reverse wrap-reverse;
+    order: 0;
+}

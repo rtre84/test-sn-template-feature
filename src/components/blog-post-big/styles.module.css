@@ -1,0 +1,15 @@
+@import '../../css/variables.css';
+
+.panel_big {
+    border-radius: 4px;
+    padding: 14px 0px 10px 0px;
+    height: 420px;
+    max-width: 556px;
+    /*background: #00a5e5;*/
+    background: var(--colorBlack);
+    color: white;
+    margin: 7px;
+    overflow: hidden;
+    text-after-overflow: hidden;
+}
+

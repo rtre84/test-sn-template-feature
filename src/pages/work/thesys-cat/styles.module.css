@@ -1,0 +1,16 @@
+.image {
+  max-width: 40%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #359bed;
+}
+
+.responsibilities {
+    list-style: square;
+}

@@ -1,0 +1,52 @@
+@import '../../css/variables.css';
+
+a {
+  text-decoration: none;
+}
+
+.contact {
+  padding: 10vh 0;
+}
+
+.disclaimer {
+  background: #161616;
+  color: white;
+  font-size: 12px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.bloglist {
+  background: white;
+  color: black;
+
+  padding-top: 50px;
+}
+
+.affiliate {
+  background: #00a5e5;
+  color: white;
+  margin-bottom: 40px;
+  width: 300px;
+}
+
+.affiliate > a > img {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.float_left {
+    float:left;
+}
+
+.float_right {
+    float: right;
+}
+
+.affiliate > a:hover {
+  color: black;
+}
+
+.clear {
+    clear: both;
+}

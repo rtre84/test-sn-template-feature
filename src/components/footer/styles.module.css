@@ -1,0 +1,32 @@
+@import '../../css/variables.css';
+
+.footer {
+  background: var(--colorBeige);
+  color: var(--colorBlack);
+}
+
+.footerCopyrightCenter {
+  margin: 0 auto;
+}
+
+.intro h1 {
+  font-size: 2.75rem;
+}
+
+.link {
+  border-bottom: 3px solid var(--colorWhite);
+}
+
+.tagOneAbout {
+  background: var(--colorWhite);
+  color: var(--colorBlack);
+}
+
+@media (--small) {
+  .intro h1 {
+    font-size: 1.7142rem;
+  }
+  .link {
+    border-width: 2px;
+  }
+}

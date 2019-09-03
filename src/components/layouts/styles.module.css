@@ -1,0 +1,15 @@
+@import '../../css/variables.css';
+
+.page {
+  padding-top: var(--headerHeight);
+  min-height: 100vh;
+}
+
+.page a {
+  text-decoration: none;
+}
+
+.page h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

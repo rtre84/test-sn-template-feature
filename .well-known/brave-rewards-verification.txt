@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: servingniches.org
+Token: a088800f00d10286dcb802f953bd0e3f2d267145d0f30d3335f1ef3d338dfe2b
