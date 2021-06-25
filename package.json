@@ -51,7 +51,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4",
     "macaddress": "^0.2.9",
-    "merge": "^1.2.1",
+    "merge": "^2.1.1",
     "randomatic": "^3.0.0",
     "serve": "^10.1.1",
     "url-parse": "^1.4.3",
