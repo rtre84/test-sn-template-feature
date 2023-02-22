@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ServingNiches/gatsby-servingniches.git"
   },
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",
     "gatsby": "^2.0.118",
     "gatsby-image": "^2.0.29",
