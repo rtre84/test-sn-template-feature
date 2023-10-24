@@ -60,7 +60,7 @@
     "handlebars": ">=4.0.14",
     "lodash": ">=4.17.13",
     "lodash.template": ">=4.5.0",
-    "lodash-es": ">=4.17.14",
+    "lodash-es": ">=4.17.21",
     "lodash.merge": ">=4.6.2",
     "mem": ">=4.0.0",
     "stringstream": ">=0.0.6"
